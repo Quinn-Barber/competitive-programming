@@ -1,4 +1,4 @@
-# [As Easy as CAB](https://open.kattis.com/problems/easyascab)
+# [As Easy As CAB](https://open.kattis.com/problems/easyascab)
 
 ### Language : Java 11
 
