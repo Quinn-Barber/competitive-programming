@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/A-characteristic/A-characteristic.iml" filepath="$PROJECT_DIR$/Codeforces/A-characteristic/A-characteristic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Almost Increasing Subsequence/Almost Increasing Subsequence.iml" filepath="$PROJECT_DIR$/Codeforces/Almost Increasing Subsequence/Almost Increasing Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Codeforces.iml" filepath="$PROJECT_DIR$/Codeforces/Codeforces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Coins/Coins.iml" filepath="$PROJECT_DIR$/Codeforces/Coins/Coins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Conveyor Belts/Conveyor Belts.iml" filepath="$PROJECT_DIR$/Codeforces/Conveyor Belts/Conveyor Belts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Grid Reconstruction/Grid Reconstruction.iml" filepath="$PROJECT_DIR$/Codeforces/Grid Reconstruction/Grid Reconstruction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Ian Visits Mary/Ian Visits Mary.iml" filepath="$PROJECT_DIR$/Codeforces/Ian Visits Mary/Ian Visits Mary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Ian and Array Sorting/Ian and Array Sorting.iml" filepath="$PROJECT_DIR$/Codeforces/Ian and Array Sorting/Ian and Array Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Indivisible/Indivisible.iml" filepath="$PROJECT_DIR$/Codeforces/Indivisible/Indivisible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Insert Digit/Insert Digit.iml" filepath="$PROJECT_DIR$/Codeforces/Insert Digit/Insert Digit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kattis/Kattis.iml" filepath="$PROJECT_DIR$/Kattis/Kattis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Lame King/Lame King.iml" filepath="$PROJECT_DIR$/Codeforces/Lame King/Lame King.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Li Hua and Chess/Li Hua and Chess.iml" filepath="$PROJECT_DIR$/Codeforces/Li Hua and Chess/Li Hua and Chess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Li Hua and Maze/Li Hua and Maze.iml" filepath="$PROJECT_DIR$/Codeforces/Li Hua and Maze/Li Hua and Maze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Li Hua and Pattern/Li Hua and Pattern.iml" filepath="$PROJECT_DIR$/Codeforces/Li Hua and Pattern/Li Hua and Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Likes/Likes.iml" filepath="$PROJECT_DIR$/Codeforces/Likes/Likes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Long Legs/Long Legs.iml" filepath="$PROJECT_DIR$/Codeforces/Long Legs/Long Legs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Lucky Numbers/Lucky Numbers.iml" filepath="$PROJECT_DIR$/Codeforces/Lucky Numbers/Lucky Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Politics/Politics.iml" filepath="$PROJECT_DIR$/Codeforces/Politics/Politics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Sort with Step/Sort with Step.iml" filepath="$PROJECT_DIR$/Codeforces/Sort with Step/Sort with Step.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Strongly Composite/Strongly Composite.iml" filepath="$PROJECT_DIR$/Codeforces/Strongly Composite/Strongly Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/USACO/USACO.iml" filepath="$PROJECT_DIR$/USACO/USACO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/competitive-programming.iml" filepath="$PROJECT_DIR$/.idea/competitive-programming.iml" />
+    </modules>
+  </component>
+</project>

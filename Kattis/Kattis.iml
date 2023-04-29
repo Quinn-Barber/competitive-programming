@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/As Easy as CAB" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Autori" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Basketball One on One" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Betting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CD" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Cold-puter Science" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dance Recital" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Detailed Differences" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Digit Swap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Drunk Vigenere" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Echo Echo Echo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Electrical Outlets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FYI" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FizzBuzz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Greetings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Harshad Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Hello World" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Horror List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Jack O Lantern Juxtaposition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Knight Packing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Last Factorial Digit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Nine Knights" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Odd Echo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Piece of Cake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Quadrant Selection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Quality-Adjusted Life-Year" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Shattered Cake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sibice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Single Source Shortest Path, Time Table" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Solving for Carrots" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sort Two Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Speed Limit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Speeding" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stuck In A Time Loop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Take Two Stones" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tarifa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ternarian Weights" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/This Aint Your Grandpas Checkerboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Two-sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Which is Greater" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

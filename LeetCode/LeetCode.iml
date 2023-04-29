@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/3Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Add Two Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Best Time to Buy and Sell Stock IV" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Container With Most Water" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Count and Say" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generate Parentheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Integer to Roman" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Jump Game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Jump Game II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Letter Combinations of a Phone Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Longest Palindromic Substring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Longest Substring Without Repeating Characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Max Sum of Rectangle No Larger Than K" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Maximum Performance of a Team" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Maximum Score from Performing Multiplication Operations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Maximum Subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Median of Two Sorted Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Merge k Sorted Lists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Palindrome Pairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Regular Expression Matching" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Remove Nth Node From End of List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Reverse Integer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rotate Image" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Shortest Path in a Grid with Obstacles Elimination" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String to Integer (atoi)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Swap Nodes in Pairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Trapping Rain Water" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Vertical Order Traversal of a BInary Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Zigzag Conversion" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
